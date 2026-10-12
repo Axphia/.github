@@ -9,5 +9,4 @@ At Axphia, we specialize in developing advanced AI and software applications des
 *   **Software Solutions:** Developing robust applications across multiple platforms.
 
 ### 🌐 Connect with Us
-*   🌍 Website: [Your Website URL]
-*   ✉️ Contact: [Your Email Address]
+*   🌍 Website: https://Axphia.org
